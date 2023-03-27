@@ -1,4 +1,21 @@
-
+ul{
+    padding: 10px;
+    list-style: none;
+    border: 1px solid gray;
+}
+li{
+    border-bottom: 1px solid gray;
+}
+input{
+    border: none;
+    width: 100%;
+}
+.fa-solid{
+    color: white;
+}
+.todo:hover .fa-solid{
+    color: red;
+}
 /* 
 
     You can write your own styles here...
